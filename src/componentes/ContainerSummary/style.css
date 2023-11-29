@@ -1,0 +1,13 @@
+.container-summary {    
+    height: 510px;
+    background-color: white;
+    padding: 2rem;
+}
+
+.box {
+    margin-top: 1.7rem;
+}
+
+.memory {
+    background-color: #fffbf4;
+}
